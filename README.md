@@ -2,6 +2,8 @@
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 
+
+
 *This project has four major parts :*
 
 model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
