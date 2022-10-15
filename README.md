@@ -1,5 +1,5 @@
 # Salary_Prediction
-This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
+This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API.
 
 
 
